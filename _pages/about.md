@@ -12,6 +12,7 @@ I'm an incoming ECE PhD student at the University of Michigan, Ann Arbor, superv
 News
 ======
 **June 2024:**    Successfully defended my master thesis entitled "Measurement Data Attacks and Defense Mechanism in Power Systems"
+
 **July 2023:**    Presented our work [Interpretable Detection and Localization of False Data Injection Attacks Based on Causal Learning](https://ieeexplore.ieee.org/abstract/document/10253166)at the 2023 IEEE Power & Energy Society General Meeting (PESGM) in Orlando, FL, USA.
 
 Getting started
