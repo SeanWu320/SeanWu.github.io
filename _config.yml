@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Shengyang Wu"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his/him"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : #"Earth"
-  employer         : "Univerisity of Michigan, Ann Arbor"
+  employer         : "Univerisity of Michigan"
   uri              : # URL
   email            : "syseanwu@umich.edu" 
 
