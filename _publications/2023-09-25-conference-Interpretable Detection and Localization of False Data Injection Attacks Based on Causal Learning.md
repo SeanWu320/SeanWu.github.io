@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper propose a causal learning structure to quantify the casuality between measurements and identify the attacked measurements based on the causality anomalies.'
 date: 2023-09-25
-venue: 'Journal 1'
+venue: '2023 IEEE Power & Energy Society General Meeting (PESGM)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10253166'
 citation: 'Shengyang Wu, Dongping Hu, Yi Gao, Dongyuan Shi and Jingyu Wang, "Interpretable Detection and Localization of False Data Injection Attacks Based on Causal Learning," <i>2023 IEEE Power & Energy Society General Meeting (PESGM)</i>, Orlando, FL, USA, 2023, pp. 1-5'
 ---
