@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV here: [Curriculum Vitae](../files/CV.pdf)
+You can find my CV here: [Curriculum Vitae](../assets/CV-Shengyang Wu.pdf)
